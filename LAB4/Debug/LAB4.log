@@ -1,0 +1,4 @@
+﻿  LAB4.cpp
+C:\Users\artem\source\repos\LAB4\LAB4.cpp(7,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\artem\source\repos\LAB4\LAB4.cpp(7,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LAB4.vcxproj -> C:\Users\artem\source\repos\LAB4\Debug\LAB4.exe
