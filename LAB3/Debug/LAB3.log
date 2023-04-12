@@ -1,0 +1,3 @@
+﻿  LAB3.cpp
+C:\Users\artem\source\repos\LAB3\LAB3.cpp(6,21): warning C4101: 'val': unreferenced local variable
+  LAB3.vcxproj -> C:\Users\artem\source\repos\LAB3\Debug\LAB3.exe
