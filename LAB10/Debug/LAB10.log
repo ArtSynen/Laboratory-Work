@@ -1,0 +1,4 @@
+﻿  LAB10.cpp
+C:\Users\artem\source\repos\LAB10\LAB10.cpp(8,17): warning C4101: 'm': unreferenced local variable
+C:\Users\artem\source\repos\LAB10\LAB10.cpp(8,9): warning C4101: 'DatBas': unreferenced local variable
+  LAB10.vcxproj -> C:\Users\artem\source\repos\LAB10\Debug\LAB10.exe
